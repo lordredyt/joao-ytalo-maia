@@ -1,6 +1,6 @@
 # Amazon — João Ytalo Maia
 
-Projeto acadêmico do curso Figma Turbo, feito com HTML, CSS, JavaScript, Vue 3.5.42 e Vite. A loja apresenta produtos de Star Wars, Senhor dos Anéis e a página do Nintendo Switch 2.
+Projeto acadêmico do curso Figma Turbo, feito com HTML, CSS, JavaScript, Vue 3.5.42 e Vite. A loja apresenta produtos de minha escolha sobre Star Wars, Senhor dos Anéis e a página do Nintendo Switch 2.
 
 ## Executar
 
